@@ -31,10 +31,12 @@ Please enter the password to access this page.<br>
 <input type="password" placeholder="Enter password here">
 >#### Once password entered:
 >##### Game 1<hr>
+>**Location:**...<br>
 >**Read to youth:** Jesus said that...<br>
 >**Instructions:** Do not let...<br>
 >**Answer:** Noah built the ark...
 >##### Game 2<hr>
+>**Location:**<br>
 >**Read to youth:**<br>
 >**Instructions:**<br>
 >**Answer:**
