@@ -14,12 +14,12 @@ Enter the code provided by your game leader to access the maze game.<br>
 Enter the code provided by your game leader to access the trivia game.<br>
 <input type="text" placeholder="Enter code here">
 >#### Once code entered:
->Press start when your game leader reads the first question. Answer the question by selecting the correct answer.<br>
-<input type="button" value="Start">
+>Press start when your game leader reads the first question. Answer the question by selecting the correct answer.
+<!--<input type="button" value="Start">
 <input type="button" value="Answer A">
 <input type="button" value="Answer B">
 <input type="button" value="Answer C">
-<input type="button" value="Answer D">
+<input type="button" value="Answer D">-->
 ## Setup Volunteer
 ### Game 1
 place thing 1 here...<br>
